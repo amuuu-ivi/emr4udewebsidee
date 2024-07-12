@@ -1,0 +1,19 @@
+p{
+	color: black;
+	text-align: right;
+	font-family: cursive;
+	font-weight: bold;
+	font-style: italic;
+}
+
+h2{	color: #000000; text-align: left;}
+
+body {background-image: url("kitty (_´˘`_)♡.jpg");}
+
+.element img src="téléchargement.jpg" {
+    font-size: 25px;
+    background-color: skyblue;
+    border-radius: 10px;
+    box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
+    padding: 100px;
+}
